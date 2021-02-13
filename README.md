@@ -1,2 +1,2 @@
-# InfoVision-React-Task
+# imagetask-with-Decompose
 React Framework
